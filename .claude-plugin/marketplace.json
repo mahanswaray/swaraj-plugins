@@ -1,0 +1,15 @@
+{
+  "name": "swaraj-plugins",
+  "description": "Swaraj's plugin marketplace for creative tools",
+  "plugins": [
+    {
+      "name": "video-reels",
+      "description": "End-to-end pipeline for turning raw video clips into polished Instagram Reels, TikTok, and YouTube Shorts.",
+      "source": {
+        "type": "github",
+        "owner": "mahanswaray",
+        "repo": "video-reels-plugin"
+      }
+    }
+  ]
+}
