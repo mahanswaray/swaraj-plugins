@@ -1,0 +1,19 @@
+{
+  "name": "video-reels",
+  "version": "0.1.0",
+  "description": "End-to-end pipeline for turning raw video clips into polished Instagram Reels, TikTok, and YouTube Shorts. AI-powered analysis, interactive storyboards, and iterative human-in-the-loop editing.",
+  "author": {
+    "name": "Swaraj"
+  },
+  "keywords": [
+    "video",
+    "reels",
+    "instagram",
+    "tiktok",
+    "ffmpeg",
+    "editing",
+    "gemini",
+    "short-form"
+  ],
+  "license": "MIT"
+}

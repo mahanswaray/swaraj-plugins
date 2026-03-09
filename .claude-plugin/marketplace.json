@@ -1,6 +1,7 @@
 {
   "name": "swaraj-plugins",
   "description": "Swaraj's plugin marketplace for creative tools",
+  "owner": "mahanswaray",
   "plugins": [
     {
       "name": "video-reels",
