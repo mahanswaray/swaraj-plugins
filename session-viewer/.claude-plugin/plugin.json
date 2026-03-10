@@ -1,0 +1,6 @@
+{
+  "name": "session-viewer",
+  "version": "1.0.0",
+  "description": "SQLite-backed Claude Code session browser, file recovery, and usage analytics",
+  "skills": ["skills/session-viewer"]
+}

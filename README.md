@@ -7,6 +7,7 @@ A custom Claude plugin marketplace for creative tools.
 | Plugin | Description |
 |--------|-------------|
 | [video-reels](https://github.com/mahanswaray/video-reels-plugin) | Raw footage to polished short-form reels pipeline |
+| [session-viewer](session-viewer/) | SQLite-backed Claude Code session browser, file recovery & usage analytics |
 
 ## How to use this marketplace
 

@@ -11,6 +11,14 @@
         "owner": "mahanswaray",
         "repo": "video-reels-plugin"
       }
+    },
+    {
+      "name": "session-viewer",
+      "description": "SQLite-backed Claude Code session browser, file recovery, and usage analytics via CLI.",
+      "source": {
+        "type": "local",
+        "path": "session-viewer"
+      }
     }
   ]
 }
