@@ -1,0 +1,6 @@
+{
+  "name": "peek-capture",
+  "version": "1.0.0",
+  "description": "Single-step screenshots for Claude Code via PreToolUse hook + Peekaboo",
+  "skills": ["skills/peek-capture"]
+}
